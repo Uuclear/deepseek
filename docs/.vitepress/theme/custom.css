@@ -1,0 +1,321 @@
+/* Brand & typography — Chinese-friendly, dark-mode friendly */
+:root {
+  --vp-c-brand-1: #3b82f6;
+  --vp-c-brand-2: #2563eb;
+  --vp-c-brand-3: #1d4ed8;
+  --vp-c-brand-soft: rgba(59, 130, 246, 0.14);
+  --vp-c-tip-1: #0ea5e9;
+  --vp-c-warning-1: #f59e0b;
+  --vp-c-danger-1: #ef4444;
+  --vp-font-family-base: "Segoe UI", "PingFang SC", "Microsoft YaHei", "Noto Sans SC", system-ui, sans-serif;
+  --vp-font-family-mono: "Cascadia Code", "JetBrains Mono", Consolas, "Source Han Sans SC", monospace;
+}
+
+.dark {
+  --vp-c-brand-1: #60a5fa;
+  --vp-c-brand-2: #3b82f6;
+  --vp-c-brand-3: #2563eb;
+  --vp-c-brand-soft: rgba(96, 165, 250, 0.12);
+}
+
+/* Wider content for code-heavy pages */
+@media (min-width: 960px) {
+  .VPDoc .container,
+  .VPDoc .content {
+    max-width: 920px !important;
+  }
+}
+
+@media (min-width: 1440px) {
+  .VPDoc .container,
+  .VPDoc .content {
+    max-width: 1000px !important;
+  }
+}
+
+/* Chinese typography */
+.vp-doc {
+  font-size: 16px;
+  line-height: 1.85;
+  letter-spacing: 0.02em;
+}
+
+.vp-doc h1 {
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.vp-doc p,
+.vp-doc li {
+  text-align: justify;
+  text-justify: inter-ideograph;
+}
+
+/* Code blocks */
+.vp-doc div[class*="language-"] {
+  border-radius: 10px;
+  border: 1px solid var(--vp-c-divider);
+  margin: 1.25rem 0;
+}
+
+.vp-doc pre,
+.vp-doc code {
+  font-family: var(--vp-font-family-mono);
+  font-size: 0.9em;
+}
+
+.vp-doc :not(pre) > code {
+  padding: 0.15em 0.45em;
+  border-radius: 4px;
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+}
+
+/* Callout / admonition colors */
+.custom-block.tip {
+  border-color: var(--vp-c-tip-1);
+  background: rgba(14, 165, 233, 0.08);
+}
+
+.custom-block.warning {
+  border-color: var(--vp-c-warning-1);
+  background: rgba(245, 158, 11, 0.08);
+}
+
+.custom-block.danger {
+  border-color: var(--vp-c-danger-1);
+  background: rgba(239, 68, 68, 0.08);
+}
+
+.custom-block.info {
+  border-color: var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+}
+
+/* LearningMeta */
+.learning-meta {
+  display: grid;
+  gap: 0.6rem;
+  padding: 1rem 1.25rem;
+  margin: 1rem 0 1.5rem;
+  border-radius: 10px;
+  border-left: 4px solid var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+}
+
+.learning-meta-item {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  align-items: baseline;
+}
+
+.learning-meta-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--vp-c-brand-1);
+  min-width: 4.5rem;
+}
+
+.learning-meta-value {
+  flex: 1;
+  font-size: 0.95rem;
+}
+
+.learning-meta-value a {
+  color: var(--vp-c-brand-1);
+}
+
+/* ExampleBox */
+.example-box {
+  margin: 1.25rem 0;
+  padding: 1rem 1.25rem;
+  border-radius: 10px;
+  border: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg-soft);
+}
+
+.example-box-title {
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+  color: var(--vp-c-text-1);
+}
+
+.example-box-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: flex-start;
+  margin-top: 0.5rem;
+}
+
+.example-box-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--vp-c-text-2);
+  min-width: 2.5rem;
+}
+
+.example-box-path {
+  font-size: 0.85rem;
+  word-break: break-all;
+}
+
+.example-box-cmd {
+  flex: 1;
+  margin: 0;
+  padding: 0.5rem 0.75rem;
+  border-radius: 6px;
+  background: var(--vp-code-block-bg);
+  font-size: 0.85rem;
+  overflow-x: auto;
+}
+
+.example-box-link {
+  color: var(--vp-c-brand-1);
+  word-break: break-all;
+}
+
+/* Homepage roadmap */
+.home-roadmap {
+  max-width: 1152px;
+  margin: 3rem auto;
+  padding: 0 24px;
+}
+
+.home-roadmap-title {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.home-roadmap-desc {
+  text-align: center;
+  color: var(--vp-c-text-2);
+  font-size: 0.9rem;
+  margin-bottom: 2rem;
+}
+
+.home-roadmap-track {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 0.75rem;
+  position: relative;
+}
+
+.home-roadmap-track::before {
+  content: "";
+  position: absolute;
+  top: 1.25rem;
+  left: 8%;
+  right: 8%;
+  height: 3px;
+  background: linear-gradient(90deg, var(--vp-c-brand-1), #a78bfa, #f472b6);
+  border-radius: 2px;
+  z-index: 0;
+}
+
+.home-roadmap-stage {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  padding: 0.5rem;
+}
+
+.home-roadmap-dot {
+  width: 2.5rem;
+  height: 2.5rem;
+  margin: 0 auto 0.5rem;
+  border-radius: 50%;
+  background: var(--stage-color);
+  color: #fff;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.home-roadmap-level {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--vp-c-text-2);
+}
+
+.home-roadmap-label {
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.home-roadmap-parts {
+  font-size: 0.8rem;
+  color: var(--vp-c-text-2);
+}
+
+/* Footer hint */
+.site-footer-hint {
+  text-align: center;
+  padding: 1rem 1.5rem 2rem;
+  font-size: 0.8rem;
+  color: var(--vp-c-text-3);
+  border-top: 1px solid var(--vp-c-divider);
+}
+
+.site-footer-hint .last-updated {
+  margin-left: 0.25rem;
+}
+
+/* Hero enhancements on home */
+.VPHome .VPHero .name {
+  background: linear-gradient(120deg, var(--vp-c-brand-1) 30%, #a78bfa);
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+.VPHome .VPFeature {
+  border-radius: 12px;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.VPHome .VPFeature:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(59, 130, 246, 0.12);
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .home-roadmap-track {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.25rem;
+  }
+
+  .home-roadmap-track::before {
+    display: none;
+  }
+
+  .learning-meta-item {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  .example-box-row {
+    flex-direction: column;
+  }
+
+  .vp-doc {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .home-roadmap-track {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Chapter nav footer polish */
+.VPDocFooter .prev-link,
+.VPDocFooter .next-link {
+  border-radius: 8px;
+}

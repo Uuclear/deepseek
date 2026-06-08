@@ -1,10 +1,15 @@
 # 学习路线图
 
-> 本文把 **基础课程（Part 0～5）**、**DeepSeek 实战（Part 6）** 与 **原理深读（Part 7）** 串成一条可执行路径。
+<LearningMeta
+  time="阅读 15 分钟"
+  output="选择适合自己的 Part 顺序与 L0～L9 目标"
+/>
+
+> 本文把 **基础课程（Part 0～5）**、**DeepSeek 实战（Part 6）**、**原理深读（Part 7）**、**构建 LLM（Part 8）**、**Agent（Part 9）** 与 **进阶专题（Part 10）** 串成一条可执行路径。
 
 ---
 
-## 能力阶梯 L0～L8
+## 能力阶梯 L0～L9
 
 ```text
 L0  Python 环境 + NumPy 能跑通
@@ -14,11 +19,14 @@ L3  理解 Transformer + 分词/Embedding
 L4  DeepSeek API / 本地部署（Part 6 guide-00）
 L5  应用开发 + RAG + LoRA 微调（Part 6 guide-01～03）
 L6  原理深读 + GRPO / R1 流水线（Part 7）
-L7  能构建迷你 LLM（Part 8：BPE → GPT → 预训练 → SFT）
-L8  能开发 Agent（Part 9：工具调用 → RAG Agent → MCP）
+L7  能构建迷你 LLM（Part 8：BPE → GPT → 预训练 → SFT → 量化）
+L8  能开发 Agent（Part 9：工具 → RAG → 知识库项目 → 评测）
+L9  进阶专题（Part 10：MoE、蒸馏、vLLM、多模态）
 ```
 
-**8 周入门目标**：达到 **L5**；L6～L8 按兴趣延伸（造模型 / 做 Agent）。
+**8 周入门目标**：达到 **L5**；L6～L9 按兴趣延伸（造模型 / 做 Agent / 进阶架构）。
+
+<HomeRoadmap />
 
 ---
 
@@ -65,14 +73,22 @@ L8  能开发 Agent（Part 9：工具调用 → RAG Agent → MCP）
 | 周 | Part 8 | 产出 |
 |----|--------|------|
 | 9 | [01～04](/part-08-llm-build/01-tokenizer-bpe) | BPE 分词器 + 迷你 GPT 预训练 |
-| 10 | [05～08](/part-08-llm-build/05-sft-alpaca) | SFT 演示 + 评估 + 衔接 HF/DeepSeek |
+| 10 | [05～10](/part-08-llm-build/05-sft-alpaca) | SFT + 评估 + 分布式/量化概念 |
 
 ### 阶段六：Agent 开发（第 11～12 周，选修）
 
 | 周 | Part 9 | 产出 |
 |----|--------|------|
 | 11 | [01～04](/part-09-agents/01-agent-overview) | ReAct + Function Calling Agent |
-| 12 | [05～08](/part-09-agents/05-rag-agent) | RAG / 多 Agent / MCP 入门 |
+| 12 | [05～10](/part-09-agents/05-rag-agent) | RAG / 知识库项目 / 评测与安全 |
+
+### 阶段七：进阶专题（第 13 周+，选修）
+
+| 主题 | Part 10 | 产出 |
+|------|---------|------|
+| 对齐与架构 | [01 GRPO](/part-10-advanced/01-grpo-rl-intuition)、[02 MoE](/part-10-advanced/02-moe-deepseek-arch) | 读懂 DeepSeek 技术报告 |
+| 压缩与部署 | [03 蒸馏](/part-10-advanced/03-distillation-practice)、[04 vLLM](/part-10-advanced/04-vllm-deployment) | 跑通 distill demo |
+| 多模态 | [05 Vision+LLM](/part-10-advanced/05-multimodal-intro) | 多模态 Agent 概念图 |
 
 ---
 
@@ -80,7 +96,7 @@ L8  能开发 Agent（Part 9：工具调用 → RAG Agent → MCP）
 
 ```text
 系统学习（推荐）：
-  Part 0 → 1 → 2 → 3 → 4 → 5 → Part 6 → Part 7 → Part 8 → Part 9
+  Part 0 → 1 → 2 → 3 → 4 → 5 → Part 6 → Part 7 → Part 8 → Part 9 → Part 10
 
 已有 Python/ML 基础：
   Part 4（复习）→ Part 5 → Part 6 → Part 8 或 Part 9
@@ -107,7 +123,8 @@ L8  能开发 Agent（Part 9：工具调用 → RAG Agent → MCP）
 - [ ] Part 6：`smoke_test.py` 返回 OK
 - [ ] Part 6：完成一个最小 RAG 或 LoRA 实验
 - [ ] Part 8（L7）：`train_tokenizer.py` + `mini_gpt/train.py` 跑通
-- [ ] Part 9（L8）：Function Calling 或 RAG Agent 示例跑通
+- [ ] Part 9（L8）：知识库 Agent 或 RAG 示例跑通
+- [ ] Part 10（L9）：蒸馏 demo 或 eval 脚本跑通
 
 ---
 

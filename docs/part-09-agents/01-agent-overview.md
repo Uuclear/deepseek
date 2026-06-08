@@ -1,8 +1,10 @@
 # Agent 是什么：感知-规划-行动-记忆
 
-> **前置知识**：[Part 6 应用开发](/part-06-practice/01-inference)  
-> **预计时间**：45 分钟  
-> **本章产出**：用四模块框架描述任意 AI Agent
+<LearningMeta
+  prereq="<a href='/part-06-practice/01-inference'>Part 6 应用开发</a>"
+  time="45 分钟"
+  output="用四模块框架描述任意 AI Agent"
+/>
 
 ## 定义
 
@@ -32,8 +34,12 @@ Agent：用户 → LLM ⇄ 工具/检索/记忆 → 多轮 → 最终结果
 2. 运行 mock ReAct：`python examples/part-09-agents/01-react-agent/react_agent.py`
 3. 列出 Agent 可能失败的三种情况（幻觉、工具错误、循环）
 
-## 示例文件
+<ExampleBox
+  title="Mock ReAct Agent"
+  path="examples/part-09-agents/01-react-agent/react_agent.py"
+  command="python examples/part-09-agents/01-react-agent/react_agent.py"
+/>
 
-- [`01-react-agent/`](/examples/part-09-agents/01-react-agent/README.md)
+---
 
 下一章：[09-02 ReAct 与工具调用](/part-09-agents/02-react-tools)

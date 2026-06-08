@@ -797,3 +797,324 @@ Example 199: In practice, we implement retrieval-augmented generation combines s
 【教程片段 200】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
 Example 200: In practice, we implement attention lets models focus on relevant parts of input. step by step.
 练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【扩展片段 1】分布式训练：DDP uses All-Reduce to sync gradients across GPUs. 本节介绍分布式训练的基本概念与动手练习。
+Example 1: In practice, we study ddp uses all-reduce to sync gradients across gpus. step by step with original tutorial notes.
+练习：请用 Python 写一段与分布式训练相关的代码，并记录运行结果。
+
+【扩展片段 2】分布式训练：DDP uses All-Reduce to sync gradients across GPUs. 本节介绍分布式训练的基本概念与动手练习。
+Example 2: In practice, we study ddp uses all-reduce to sync gradients across gpus. step by step with original tutorial notes.
+练习：请用 Python 写一段与分布式训练相关的代码，并记录运行结果。
+
+【扩展片段 3】分布式训练：DDP uses All-Reduce to sync gradients across GPUs. 本节介绍分布式训练的基本概念与动手练习。
+Example 3: In practice, we study ddp uses all-reduce to sync gradients across gpus. step by step with original tutorial notes.
+练习：请用 Python 写一段与分布式训练相关的代码，并记录运行结果。
+
+【扩展片段 4】分布式训练：DDP uses All-Reduce to sync gradients across GPUs. 本节介绍分布式训练的基本概念与动手练习。
+Example 4: In practice, we study ddp uses all-reduce to sync gradients across gpus. step by step with original tutorial notes.
+练习：请用 Python 写一段与分布式训练相关的代码，并记录运行结果。
+
+【扩展片段 5】分布式训练：DDP uses All-Reduce to sync gradients across GPUs. 本节介绍分布式训练的基本概念与动手练习。
+Example 5: In practice, we study ddp uses all-reduce to sync gradients across gpus. step by step with original tutorial notes.
+练习：请用 Python 写一段与分布式训练相关的代码，并记录运行结果。
+
+【扩展片段 6】分布式训练：DDP uses All-Reduce to sync gradients across GPUs. 本节介绍分布式训练的基本概念与动手练习。
+Example 6: In practice, we study ddp uses all-reduce to sync gradients across gpus. step by step with original tutorial notes.
+练习：请用 Python 写一段与分布式训练相关的代码，并记录运行结果。
+
+【扩展片段 7】分布式训练：DDP uses All-Reduce to sync gradients across GPUs. 本节介绍分布式训练的基本概念与动手练习。
+Example 7: In practice, we study ddp uses all-reduce to sync gradients across gpus. step by step with original tutorial notes.
+练习：请用 Python 写一段与分布式训练相关的代码，并记录运行结果。
+
+【扩展片段 8】分布式训练：DDP uses All-Reduce to sync gradients across GPUs. 本节介绍分布式训练的基本概念与动手练习。
+Example 8: In practice, we study ddp uses all-reduce to sync gradients across gpus. step by step with original tutorial notes.
+练习：请用 Python 写一段与分布式训练相关的代码，并记录运行结果。
+
+【扩展片段 9】模型量化：GGUF and INT4 quantization shrink model size for local inference. 本节介绍模型量化的基本概念与动手练习。
+Example 9: In practice, we study gguf and int4 quantization shrink model size for local inference. step by step with original tutorial notes.
+练习：请用 Python 写一段与模型量化相关的代码，并记录运行结果。
+
+【扩展片段 10】模型量化：GGUF and INT4 quantization shrink model size for local inference. 本节介绍模型量化的基本概念与动手练习。
+Example 10: In practice, we study gguf and int4 quantization shrink model size for local inference. step by step with original tutorial notes.
+练习：请用 Python 写一段与模型量化相关的代码，并记录运行结果。
+
+【扩展片段 11】模型量化：GGUF and INT4 quantization shrink model size for local inference. 本节介绍模型量化的基本概念与动手练习。
+Example 11: In practice, we study gguf and int4 quantization shrink model size for local inference. step by step with original tutorial notes.
+练习：请用 Python 写一段与模型量化相关的代码，并记录运行结果。
+
+【扩展片段 12】模型量化：GGUF and INT4 quantization shrink model size for local inference. 本节介绍模型量化的基本概念与动手练习。
+Example 12: In practice, we study gguf and int4 quantization shrink model size for local inference. step by step with original tutorial notes.
+练习：请用 Python 写一段与模型量化相关的代码，并记录运行结果。
+
+【扩展片段 13】模型量化：GGUF and INT4 quantization shrink model size for local inference. 本节介绍模型量化的基本概念与动手练习。
+Example 13: In practice, we study gguf and int4 quantization shrink model size for local inference. step by step with original tutorial notes.
+练习：请用 Python 写一段与模型量化相关的代码，并记录运行结果。
+
+【扩展片段 14】模型量化：GGUF and INT4 quantization shrink model size for local inference. 本节介绍模型量化的基本概念与动手练习。
+Example 14: In practice, we study gguf and int4 quantization shrink model size for local inference. step by step with original tutorial notes.
+练习：请用 Python 写一段与模型量化相关的代码，并记录运行结果。
+
+【扩展片段 15】模型量化：GGUF and INT4 quantization shrink model size for local inference. 本节介绍模型量化的基本概念与动手练习。
+Example 15: In practice, we study gguf and int4 quantization shrink model size for local inference. step by step with original tutorial notes.
+练习：请用 Python 写一段与模型量化相关的代码，并记录运行结果。
+
+【扩展片段 16】模型量化：GGUF and INT4 quantization shrink model size for local inference. 本节介绍模型量化的基本概念与动手练习。
+Example 16: In practice, we study gguf and int4 quantization shrink model size for local inference. step by step with original tutorial notes.
+练习：请用 Python 写一段与模型量化相关的代码，并记录运行结果。
+
+【扩展片段 17】Agent安全：Sandbox and tool whitelist prevent agent tool abuse. 本节介绍Agent安全的基本概念与动手练习。
+Example 17: In practice, we study sandbox and tool whitelist prevent agent tool abuse. step by step with original tutorial notes.
+练习：请用 Python 写一段与Agent安全相关的代码，并记录运行结果。
+
+【扩展片段 18】Agent安全：Sandbox and tool whitelist prevent agent tool abuse. 本节介绍Agent安全的基本概念与动手练习。
+Example 18: In practice, we study sandbox and tool whitelist prevent agent tool abuse. step by step with original tutorial notes.
+练习：请用 Python 写一段与Agent安全相关的代码，并记录运行结果。
+
+【扩展片段 19】Agent安全：Sandbox and tool whitelist prevent agent tool abuse. 本节介绍Agent安全的基本概念与动手练习。
+Example 19: In practice, we study sandbox and tool whitelist prevent agent tool abuse. step by step with original tutorial notes.
+练习：请用 Python 写一段与Agent安全相关的代码，并记录运行结果。
+
+【扩展片段 20】Agent安全：Sandbox and tool whitelist prevent agent tool abuse. 本节介绍Agent安全的基本概念与动手练习。
+Example 20: In practice, we study sandbox and tool whitelist prevent agent tool abuse. step by step with original tutorial notes.
+练习：请用 Python 写一段与Agent安全相关的代码，并记录运行结果。
+
+【扩展片段 21】Agent安全：Sandbox and tool whitelist prevent agent tool abuse. 本节介绍Agent安全的基本概念与动手练习。
+Example 21: In practice, we study sandbox and tool whitelist prevent agent tool abuse. step by step with original tutorial notes.
+练习：请用 Python 写一段与Agent安全相关的代码，并记录运行结果。
+
+【扩展片段 22】Agent安全：Sandbox and tool whitelist prevent agent tool abuse. 本节介绍Agent安全的基本概念与动手练习。
+Example 22: In practice, we study sandbox and tool whitelist prevent agent tool abuse. step by step with original tutorial notes.
+练习：请用 Python 写一段与Agent安全相关的代码，并记录运行结果。
+
+【扩展片段 23】Agent安全：Sandbox and tool whitelist prevent agent tool abuse. 本节介绍Agent安全的基本概念与动手练习。
+Example 23: In practice, we study sandbox and tool whitelist prevent agent tool abuse. step by step with original tutorial notes.
+练习：请用 Python 写一段与Agent安全相关的代码，并记录运行结果。
+
+【扩展片段 24】Agent安全：Sandbox and tool whitelist prevent agent tool abuse. 本节介绍Agent安全的基本概念与动手练习。
+Example 24: In practice, we study sandbox and tool whitelist prevent agent tool abuse. step by step with original tutorial notes.
+练习：请用 Python 写一段与Agent安全相关的代码，并记录运行结果。
+
+【扩展片段 25】知识蒸馏：Teacher-Student distillation uses temperature T for soft labels. 本节介绍知识蒸馏的基本概念与动手练习。
+Example 25: In practice, we study teacher-student distillation uses temperature t for soft labels. step by step with original tutorial notes.
+练习：请用 Python 写一段与知识蒸馏相关的代码，并记录运行结果。
+
+【扩展片段 26】知识蒸馏：Teacher-Student distillation uses temperature T for soft labels. 本节介绍知识蒸馏的基本概念与动手练习。
+Example 26: In practice, we study teacher-student distillation uses temperature t for soft labels. step by step with original tutorial notes.
+练习：请用 Python 写一段与知识蒸馏相关的代码，并记录运行结果。
+
+【扩展片段 27】知识蒸馏：Teacher-Student distillation uses temperature T for soft labels. 本节介绍知识蒸馏的基本概念与动手练习。
+Example 27: In practice, we study teacher-student distillation uses temperature t for soft labels. step by step with original tutorial notes.
+练习：请用 Python 写一段与知识蒸馏相关的代码，并记录运行结果。
+
+【扩展片段 28】知识蒸馏：Teacher-Student distillation uses temperature T for soft labels. 本节介绍知识蒸馏的基本概念与动手练习。
+Example 28: In practice, we study teacher-student distillation uses temperature t for soft labels. step by step with original tutorial notes.
+练习：请用 Python 写一段与知识蒸馏相关的代码，并记录运行结果。
+
+【扩展片段 29】知识蒸馏：Teacher-Student distillation uses temperature T for soft labels. 本节介绍知识蒸馏的基本概念与动手练习。
+Example 29: In practice, we study teacher-student distillation uses temperature t for soft labels. step by step with original tutorial notes.
+练习：请用 Python 写一段与知识蒸馏相关的代码，并记录运行结果。
+
+【扩展片段 30】知识蒸馏：Teacher-Student distillation uses temperature T for soft labels. 本节介绍知识蒸馏的基本概念与动手练习。
+Example 30: In practice, we study teacher-student distillation uses temperature t for soft labels. step by step with original tutorial notes.
+练习：请用 Python 写一段与知识蒸馏相关的代码，并记录运行结果。
+
+【扩展片段 31】知识蒸馏：Teacher-Student distillation uses temperature T for soft labels. 本节介绍知识蒸馏的基本概念与动手练习。
+Example 31: In practice, we study teacher-student distillation uses temperature t for soft labels. step by step with original tutorial notes.
+练习：请用 Python 写一段与知识蒸馏相关的代码，并记录运行结果。
+
+【扩展片段 32】知识蒸馏：Teacher-Student distillation uses temperature T for soft labels. 本节介绍知识蒸馏的基本概念与动手练习。
+Example 32: In practice, we study teacher-student distillation uses temperature t for soft labels. step by step with original tutorial notes.
+练习：请用 Python 写一段与知识蒸馏相关的代码，并记录运行结果。
+
+【扩展片段 33】MoE架构：Mixture of Experts routes tokens to top-k expert FFN layers. 本节介绍MoE架构的基本概念与动手练习。
+Example 33: In practice, we study mixture of experts routes tokens to top-k expert ffn layers. step by step with original tutorial notes.
+练习：请用 Python 写一段与MoE架构相关的代码，并记录运行结果。
+
+【扩展片段 34】MoE架构：Mixture of Experts routes tokens to top-k expert FFN layers. 本节介绍MoE架构的基本概念与动手练习。
+Example 34: In practice, we study mixture of experts routes tokens to top-k expert ffn layers. step by step with original tutorial notes.
+练习：请用 Python 写一段与MoE架构相关的代码，并记录运行结果。
+
+【扩展片段 35】MoE架构：Mixture of Experts routes tokens to top-k expert FFN layers. 本节介绍MoE架构的基本概念与动手练习。
+Example 35: In practice, we study mixture of experts routes tokens to top-k expert ffn layers. step by step with original tutorial notes.
+练习：请用 Python 写一段与MoE架构相关的代码，并记录运行结果。
+
+【扩展片段 36】MoE架构：Mixture of Experts routes tokens to top-k expert FFN layers. 本节介绍MoE架构的基本概念与动手练习。
+Example 36: In practice, we study mixture of experts routes tokens to top-k expert ffn layers. step by step with original tutorial notes.
+练习：请用 Python 写一段与MoE架构相关的代码，并记录运行结果。
+
+【扩展片段 37】MoE架构：Mixture of Experts routes tokens to top-k expert FFN layers. 本节介绍MoE架构的基本概念与动手练习。
+Example 37: In practice, we study mixture of experts routes tokens to top-k expert ffn layers. step by step with original tutorial notes.
+练习：请用 Python 写一段与MoE架构相关的代码，并记录运行结果。
+
+【扩展片段 38】MoE架构：Mixture of Experts routes tokens to top-k expert FFN layers. 本节介绍MoE架构的基本概念与动手练习。
+Example 38: In practice, we study mixture of experts routes tokens to top-k expert ffn layers. step by step with original tutorial notes.
+练习：请用 Python 写一段与MoE架构相关的代码，并记录运行结果。
+
+【扩展片段 39】MoE架构：Mixture of Experts routes tokens to top-k expert FFN layers. 本节介绍MoE架构的基本概念与动手练习。
+Example 39: In practice, we study mixture of experts routes tokens to top-k expert ffn layers. step by step with original tutorial notes.
+练习：请用 Python 写一段与MoE架构相关的代码，并记录运行结果。
+
+【扩展片段 40】MoE架构：Mixture of Experts routes tokens to top-k expert FFN layers. 本节介绍MoE架构的基本概念与动手练习。
+Example 40: In practice, we study mixture of experts routes tokens to top-k expert ffn layers. step by step with original tutorial notes.
+练习：请用 Python 写一段与MoE架构相关的代码，并记录运行结果。
+
+【扩展片段 41】vLLM推理：PagedAttention improves KV cache memory for LLM serving. 本节介绍vLLM推理的基本概念与动手练习。
+Example 41: In practice, we study pagedattention improves kv cache memory for llm serving. step by step with original tutorial notes.
+练习：请用 Python 写一段与vLLM推理相关的代码，并记录运行结果。
+
+【扩展片段 42】vLLM推理：PagedAttention improves KV cache memory for LLM serving. 本节介绍vLLM推理的基本概念与动手练习。
+Example 42: In practice, we study pagedattention improves kv cache memory for llm serving. step by step with original tutorial notes.
+练习：请用 Python 写一段与vLLM推理相关的代码，并记录运行结果。
+
+【扩展片段 43】vLLM推理：PagedAttention improves KV cache memory for LLM serving. 本节介绍vLLM推理的基本概念与动手练习。
+Example 43: In practice, we study pagedattention improves kv cache memory for llm serving. step by step with original tutorial notes.
+练习：请用 Python 写一段与vLLM推理相关的代码，并记录运行结果。
+
+【扩展片段 44】vLLM推理：PagedAttention improves KV cache memory for LLM serving. 本节介绍vLLM推理的基本概念与动手练习。
+Example 44: In practice, we study pagedattention improves kv cache memory for llm serving. step by step with original tutorial notes.
+练习：请用 Python 写一段与vLLM推理相关的代码，并记录运行结果。
+
+【扩展片段 45】vLLM推理：PagedAttention improves KV cache memory for LLM serving. 本节介绍vLLM推理的基本概念与动手练习。
+Example 45: In practice, we study pagedattention improves kv cache memory for llm serving. step by step with original tutorial notes.
+练习：请用 Python 写一段与vLLM推理相关的代码，并记录运行结果。
+
+【扩展片段 46】vLLM推理：PagedAttention improves KV cache memory for LLM serving. 本节介绍vLLM推理的基本概念与动手练习。
+Example 46: In practice, we study pagedattention improves kv cache memory for llm serving. step by step with original tutorial notes.
+练习：请用 Python 写一段与vLLM推理相关的代码，并记录运行结果。
+
+【扩展片段 47】vLLM推理：PagedAttention improves KV cache memory for LLM serving. 本节介绍vLLM推理的基本概念与动手练习。
+Example 47: In practice, we study pagedattention improves kv cache memory for llm serving. step by step with original tutorial notes.
+练习：请用 Python 写一段与vLLM推理相关的代码，并记录运行结果。
+
+【扩展片段 48】vLLM推理：PagedAttention improves KV cache memory for LLM serving. 本节介绍vLLM推理的基本概念与动手练习。
+Example 48: In practice, we study pagedattention improves kv cache memory for llm serving. step by step with original tutorial notes.
+练习：请用 Python 写一段与vLLM推理相关的代码，并记录运行结果。
+
+【扩展片段 49】多模态：Vision tokens are projected into the LLM embedding space. 本节介绍多模态的基本概念与动手练习。
+Example 49: In practice, we study vision tokens are projected into the llm embedding space. step by step with original tutorial notes.
+练习：请用 Python 写一段与多模态相关的代码，并记录运行结果。
+
+【扩展片段 50】多模态：Vision tokens are projected into the LLM embedding space. 本节介绍多模态的基本概念与动手练习。
+Example 50: In practice, we study vision tokens are projected into the llm embedding space. step by step with original tutorial notes.
+练习：请用 Python 写一段与多模态相关的代码，并记录运行结果。
+
+【扩展片段 51】多模态：Vision tokens are projected into the LLM embedding space. 本节介绍多模态的基本概念与动手练习。
+Example 51: In practice, we study vision tokens are projected into the llm embedding space. step by step with original tutorial notes.
+练习：请用 Python 写一段与多模态相关的代码，并记录运行结果。
+
+【扩展片段 52】多模态：Vision tokens are projected into the LLM embedding space. 本节介绍多模态的基本概念与动手练习。
+Example 52: In practice, we study vision tokens are projected into the llm embedding space. step by step with original tutorial notes.
+练习：请用 Python 写一段与多模态相关的代码，并记录运行结果。
+
+【扩展片段 53】多模态：Vision tokens are projected into the LLM embedding space. 本节介绍多模态的基本概念与动手练习。
+Example 53: In practice, we study vision tokens are projected into the llm embedding space. step by step with original tutorial notes.
+练习：请用 Python 写一段与多模态相关的代码，并记录运行结果。
+
+【扩展片段 54】多模态：Vision tokens are projected into the LLM embedding space. 本节介绍多模态的基本概念与动手练习。
+Example 54: In practice, we study vision tokens are projected into the llm embedding space. step by step with original tutorial notes.
+练习：请用 Python 写一段与多模态相关的代码，并记录运行结果。
+
+【扩展片段 55】多模态：Vision tokens are projected into the LLM embedding space. 本节介绍多模态的基本概念与动手练习。
+Example 55: In practice, we study vision tokens are projected into the llm embedding space. step by step with original tutorial notes.
+练习：请用 Python 写一段与多模态相关的代码，并记录运行结果。
+
+【扩展片段 56】多模态：Vision tokens are projected into the LLM embedding space. 本节介绍多模态的基本概念与动手练习。
+Example 56: In practice, we study vision tokens are projected into the llm embedding space. step by step with original tutorial notes.
+练习：请用 Python 写一段与多模态相关的代码，并记录运行结果。
+
+【扩展片段 57】GRPO强化学习：Group Relative Policy Optimization compares answers within a group. 本节介绍GRPO强化学习的基本概念与动手练习。
+Example 57: In practice, we study group relative policy optimization compares answers within a group. step by step with original tutorial notes.
+练习：请用 Python 写一段与GRPO强化学习相关的代码，并记录运行结果。
+
+【扩展片段 58】GRPO强化学习：Group Relative Policy Optimization compares answers within a group. 本节介绍GRPO强化学习的基本概念与动手练习。
+Example 58: In practice, we study group relative policy optimization compares answers within a group. step by step with original tutorial notes.
+练习：请用 Python 写一段与GRPO强化学习相关的代码，并记录运行结果。
+
+【扩展片段 59】GRPO强化学习：Group Relative Policy Optimization compares answers within a group. 本节介绍GRPO强化学习的基本概念与动手练习。
+Example 59: In practice, we study group relative policy optimization compares answers within a group. step by step with original tutorial notes.
+练习：请用 Python 写一段与GRPO强化学习相关的代码，并记录运行结果。
+
+【扩展片段 60】GRPO强化学习：Group Relative Policy Optimization compares answers within a group. 本节介绍GRPO强化学习的基本概念与动手练习。
+Example 60: In practice, we study group relative policy optimization compares answers within a group. step by step with original tutorial notes.
+练习：请用 Python 写一段与GRPO强化学习相关的代码，并记录运行结果。
+
+【扩展片段 61】GRPO强化学习：Group Relative Policy Optimization compares answers within a group. 本节介绍GRPO强化学习的基本概念与动手练习。
+Example 61: In practice, we study group relative policy optimization compares answers within a group. step by step with original tutorial notes.
+练习：请用 Python 写一段与GRPO强化学习相关的代码，并记录运行结果。
+
+【扩展片段 62】GRPO强化学习：Group Relative Policy Optimization compares answers within a group. 本节介绍GRPO强化学习的基本概念与动手练习。
+Example 62: In practice, we study group relative policy optimization compares answers within a group. step by step with original tutorial notes.
+练习：请用 Python 写一段与GRPO强化学习相关的代码，并记录运行结果。
+
+【扩展片段 63】GRPO强化学习：Group Relative Policy Optimization compares answers within a group. 本节介绍GRPO强化学习的基本概念与动手练习。
+Example 63: In practice, we study group relative policy optimization compares answers within a group. step by step with original tutorial notes.
+练习：请用 Python 写一段与GRPO强化学习相关的代码，并记录运行结果。
+
+【扩展片段 64】GRPO强化学习：Group Relative Policy Optimization compares answers within a group. 本节介绍GRPO强化学习的基本概念与动手练习。
+Example 64: In practice, we study group relative policy optimization compares answers within a group. step by step with original tutorial notes.
+练习：请用 Python 写一段与GRPO强化学习相关的代码，并记录运行结果。
+
+【扩展片段 65】个人知识库：Knowledge agent retrieves chunks from sample_docs folder. 本节介绍个人知识库的基本概念与动手练习。
+Example 65: In practice, we study knowledge agent retrieves chunks from sample_docs folder. step by step with original tutorial notes.
+练习：请用 Python 写一段与个人知识库相关的代码，并记录运行结果。
+
+【扩展片段 66】个人知识库：Knowledge agent retrieves chunks from sample_docs folder. 本节介绍个人知识库的基本概念与动手练习。
+Example 66: In practice, we study knowledge agent retrieves chunks from sample_docs folder. step by step with original tutorial notes.
+练习：请用 Python 写一段与个人知识库相关的代码，并记录运行结果。
+
+【扩展片段 67】个人知识库：Knowledge agent retrieves chunks from sample_docs folder. 本节介绍个人知识库的基本概念与动手练习。
+Example 67: In practice, we study knowledge agent retrieves chunks from sample_docs folder. step by step with original tutorial notes.
+练习：请用 Python 写一段与个人知识库相关的代码，并记录运行结果。
+
+【扩展片段 68】个人知识库：Knowledge agent retrieves chunks from sample_docs folder. 本节介绍个人知识库的基本概念与动手练习。
+Example 68: In practice, we study knowledge agent retrieves chunks from sample_docs folder. step by step with original tutorial notes.
+练习：请用 Python 写一段与个人知识库相关的代码，并记录运行结果。
+
+【扩展片段 69】个人知识库：Knowledge agent retrieves chunks from sample_docs folder. 本节介绍个人知识库的基本概念与动手练习。
+Example 69: In practice, we study knowledge agent retrieves chunks from sample_docs folder. step by step with original tutorial notes.
+练习：请用 Python 写一段与个人知识库相关的代码，并记录运行结果。
+
+【扩展片段 70】个人知识库：Knowledge agent retrieves chunks from sample_docs folder. 本节介绍个人知识库的基本概念与动手练习。
+Example 70: In practice, we study knowledge agent retrieves chunks from sample_docs folder. step by step with original tutorial notes.
+练习：请用 Python 写一段与个人知识库相关的代码，并记录运行结果。
+
+【扩展片段 71】个人知识库：Knowledge agent retrieves chunks from sample_docs folder. 本节介绍个人知识库的基本概念与动手练习。
+Example 71: In practice, we study knowledge agent retrieves chunks from sample_docs folder. step by step with original tutorial notes.
+练习：请用 Python 写一段与个人知识库相关的代码，并记录运行结果。
+
+【扩展片段 72】个人知识库：Knowledge agent retrieves chunks from sample_docs folder. 本节介绍个人知识库的基本概念与动手练习。
+Example 72: In practice, we study knowledge agent retrieves chunks from sample_docs folder. step by step with original tutorial notes.
+练习：请用 Python 写一段与个人知识库相关的代码，并记录运行结果。
+
+【扩展片段 73】评测Golden：Golden Set eval uses expected keywords for regression tests. 本节介绍评测Golden的基本概念与动手练习。
+Example 73: In practice, we study golden set eval uses expected keywords for regression tests. step by step with original tutorial notes.
+练习：请用 Python 写一段与评测Golden相关的代码，并记录运行结果。
+
+【扩展片段 74】评测Golden：Golden Set eval uses expected keywords for regression tests. 本节介绍评测Golden的基本概念与动手练习。
+Example 74: In practice, we study golden set eval uses expected keywords for regression tests. step by step with original tutorial notes.
+练习：请用 Python 写一段与评测Golden相关的代码，并记录运行结果。
+
+【扩展片段 75】评测Golden：Golden Set eval uses expected keywords for regression tests. 本节介绍评测Golden的基本概念与动手练习。
+Example 75: In practice, we study golden set eval uses expected keywords for regression tests. step by step with original tutorial notes.
+练习：请用 Python 写一段与评测Golden相关的代码，并记录运行结果。
+
+【扩展片段 76】评测Golden：Golden Set eval uses expected keywords for regression tests. 本节介绍评测Golden的基本概念与动手练习。
+Example 76: In practice, we study golden set eval uses expected keywords for regression tests. step by step with original tutorial notes.
+练习：请用 Python 写一段与评测Golden相关的代码，并记录运行结果。
+
+【扩展片段 77】评测Golden：Golden Set eval uses expected keywords for regression tests. 本节介绍评测Golden的基本概念与动手练习。
+Example 77: In practice, we study golden set eval uses expected keywords for regression tests. step by step with original tutorial notes.
+练习：请用 Python 写一段与评测Golden相关的代码，并记录运行结果。
+
+【扩展片段 78】评测Golden：Golden Set eval uses expected keywords for regression tests. 本节介绍评测Golden的基本概念与动手练习。
+Example 78: In practice, we study golden set eval uses expected keywords for regression tests. step by step with original tutorial notes.
+练习：请用 Python 写一段与评测Golden相关的代码，并记录运行结果。
+
+【扩展片段 79】评测Golden：Golden Set eval uses expected keywords for regression tests. 本节介绍评测Golden的基本概念与动手练习。
+Example 79: In practice, we study golden set eval uses expected keywords for regression tests. step by step with original tutorial notes.
+练习：请用 Python 写一段与评测Golden相关的代码，并记录运行结果。
+
+【扩展片段 80】评测Golden：Golden Set eval uses expected keywords for regression tests. 本节介绍评测Golden的基本概念与动手练习。
+Example 80: In practice, we study golden set eval uses expected keywords for regression tests. step by step with original tutorial notes.
+练习：请用 Python 写一段与评测Golden相关的代码，并记录运行结果。
+

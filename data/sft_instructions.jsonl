@@ -53,3 +53,28 @@
 {"instruction": "代码（样本53）", "input": "用 Python 写一个计算列表平均值的函数。", "output": "def average(nums):\n    return sum(nums) / len(nums) if nums else 0"}
 {"instruction": "总结（样本54）", "input": "总结以下要点：机器学习需要数据、特征和评估。", "output": "机器学习三要素：数据、特征工程、评估指标。"}
 {"instruction": "分类（样本55）", "input": "", "output": "正面"}
+{"instruction": "解释（样本56）", "input": "什么是 DDP 数据并行？", "output": "每张 GPU 持模型副本，分 batch 训练，All-Reduce 同步梯度。"}
+{"instruction": "解释（样本57）", "input": "GGUF 是什么？", "output": "面向 llama.cpp/Ollama 的单文件量化权重格式，含架构元数据。"}
+{"instruction": "解释（样本58）", "input": "Agent 幻觉如何缓解？", "output": "强制引用检索来源、拒答低置信问题、Golden Set 回归。"}
+{"instruction": "步骤（样本59）", "input": "如何运行知识库 Agent？", "output": "python examples/part-09-agents/06-knowledge-agent/knowledge_agent.py --query 你的问题"}
+{"instruction": "对比（样本60）", "input": "ONNX 和 GGUF 区别？", "output": "ONNX 是跨框架推理图；GGUF 侧重本地 LLM 量化权重打包。"}
+{"instruction": "设计（样本61）", "input": "设计 Agent 沙箱要注意什么？", "output": "超时、禁网、临时目录、仅返回 stdout，禁止任意 shell。"}
+{"instruction": "解释（样本62）", "input": "什么是 MoE？", "output": "混合专家：路由选择少量专家 FFN，扩大容量同时控制激活计算量。"}
+{"instruction": "解释（样本63）", "input": "GRPO 和 PPO 差异直觉？", "output": "GRPO 组内相对比较，无需独立 critic，实现更轻。"}
+{"instruction": "代码（样本64）", "input": "写一段读取 JSONL 的 Python", "output": "import json\nfor line in open('data.jsonl', encoding='utf-8'):\n    print(json.loads(line))"}
+{"instruction": "总结（样本65）", "input": "vLLM 优化点", "output": "PagedAttention 管理 KV Cache；连续批处理提高 GPU 利用率。"}
+{"instruction": "问答（样本66）", "input": "多模态 LLM 如何处理图像？", "output": "Vision Encoder 产出视觉 token，投影后与文本 token 拼接进 Transformer。"}
+{"instruction": "翻译（样本67）", "input": "将以下句子翻译成英文：强化学习用于对齐人类偏好。", "output": "Reinforcement learning aligns models with human preferences."}
+{"instruction": "分类（样本68）", "input": "判断：量化会略微降低模型精度。", "output": "正确"}
+{"instruction": "改写（样本69）", "input": "把这句话改得更口语：请参阅附录 A。", "output": "详情请看附录 A。"}
+{"instruction": "解释（样本70）", "input": "什么是 Golden Set？", "output": "固定问答评测集，用于回归测试 LLM 或 Agent 回答质量。"}
+{"instruction": "步骤（样本71）", "input": "mini_gpt 如何记录训练曲线？", "output": "train.py 写入 checkpoints/training_log.jsonl 并可生成 training_curves.png。"}
+{"instruction": "对比（样本72）", "input": "RAG 和微调何时选？", "output": "知识常更新选 RAG；需改变风格或格式且数据充足可微调。"}
+{"instruction": "设计（样本73）", "input": "个人知识库项目最小模块", "output": "文档加载、chunk 切分、检索、可选 LLM 生成、来源标注。"}
+{"instruction": "解释（样本74）", "input": "蒸馏温度 T 的作用", "output": "T>1 使 softmax 分布更平滑，便于 Student 学习 Teacher 暗知识。"}
+{"instruction": "代码（样本75）", "input": "用 PyTorch 判断 CUDA 是否可用", "output": "import torch\nprint(torch.cuda.is_available())"}
+{"instruction": "总结（样本76）", "input": "Part 10 涵盖主题", "output": "GRPO、MoE、蒸馏、vLLM 部署、多模态入门。"}
+{"instruction": "问答（样本77）", "input": "Windows 跑分布式训练建议？", "output": "以阅读 DDP 概念为主，多卡实操推荐 Linux+NCCL。"}
+{"instruction": "解释（样本78）", "input": "Function Calling 价值", "output": "让 LLM 结构化输出工具名与参数，便于程序解析执行。"}
+{"instruction": "步骤（样本79）", "input": "如何扩展教程语料？", "output": "向 data/corpus_zh_en.txt 追加原创中英段落，保持授权清晰。"}
+{"instruction": "设计（样本80）", "input": "Agent 评测维度", "output": "任务完成率、工具正确率、groundedness、安全性、成本延迟。"}

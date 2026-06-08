@@ -1,0 +1,15 @@
+{"question": "什么是 BPE 分词？", "expected_keywords": ["BPE", "分词"], "category": "llm"}
+{"question": "迷你 GPT 训练目标", "expected_keywords": ["Next", "Token"], "category": "llm"}
+{"question": "什么是 ReAct Agent？", "expected_keywords": ["ReAct"], "category": "agent"}
+{"question": "RAG 检索增强生成流程", "expected_keywords": ["检索", "chunk"], "category": "agent"}
+{"question": "什么是 LoRA？", "expected_keywords": ["LoRA", "低秩"], "category": "llm"}
+{"question": "DDP 分布式 All-Reduce 梯度", "expected_keywords": ["All-Reduce", "梯度"], "category": "llm"}
+{"question": "GGUF 格式主要用于什么场景？", "expected_keywords": ["GGUF", "量化"], "category": "llm"}
+{"question": "Agent 安全与幻觉问题", "expected_keywords": ["幻觉", "工具"], "category": "agent"}
+{"question": "什么是 MCP？", "expected_keywords": ["MCP"], "category": "agent"}
+{"question": "MoE 混合专家路由", "expected_keywords": ["专家", "路由"], "category": "advanced"}
+{"question": "蒸馏温度参数作用", "expected_keywords": ["温度", "软"], "category": "advanced"}
+{"question": "vLLM PagedAttention 优化", "expected_keywords": ["KV", "PagedAttention"], "category": "advanced"}
+{"question": "多模态 Vision LLM 图像", "expected_keywords": ["视觉", "token"], "category": "advanced"}
+{"question": "GRPO 强化学习对齐", "expected_keywords": ["GRPO", "KL"], "category": "advanced"}
+{"question": "RAG 文档切分 chunk", "expected_keywords": ["chunk", "检索"], "category": "agent"}

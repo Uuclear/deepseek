@@ -29,9 +29,10 @@ BPE 训练 → GPT 架构 → NTP 预训练 → JSONL 数据 → SFT → 评估
 3. 本地 LoRA → [guide-02](/part-06-practice/02-finetuning)
 4. 理解 MoE / MLA → [V3 架构](/part-07-theory/v3-architecture)
 
-## 下一步：Agent
+## 下一步
 
-会「造模型」之后，学习「让模型做事」→ [Part 9 Agent 开发](/part-09-agents/01-agent-overview)
+- 继续 Part 8：[09 分布式训练](/part-08-llm-build/09-distributed-training)、[10 量化导出](/part-08-llm-build/10-quantization-export)
+- 或进入 [Part 9 Agent 开发](/part-09-agents/01-agent-overview)
 
 ## 动手练习
 
@@ -43,3 +44,7 @@ BPE 训练 → GPT 架构 → NTP 预训练 → JSONL 数据 → SFT → 评估
 
 - [Part 8 示例总览](/examples/part-08-llm-build/README.md)
 - [学习路线图 L7](/roadmap)
+
+---
+
+上一章：[08-07 评估与困惑度](/part-08-llm-build/07-eval-perplexity) · 下一章：[08-09 分布式训练](/part-08-llm-build/09-distributed-training)
