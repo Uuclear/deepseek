@@ -1,7 +1,8 @@
 # SFT / LoRA 微调入门（以 DeepSeek-R1-Distill 为例）
 
 > **前置**： [guide-00 部署](/part-06-practice/00-deployment)、[guide-01 应用开发](/part-06-practice/01-inference)。  
-> **目标**：用 **自己的数据** 改变模型行为，而不从头预训练。
+> **目标**：用 **自己的数据** 改变模型行为，而不从头预训练。  
+> **衔接**：[Part 8 SFT/LoRA 原理](/part-08-llm-build/05-sft-alpaca) · 学完微调可进入 [Part 9 Agent 开发](/part-09-agents/01-agent-overview)。
 
 ---
 

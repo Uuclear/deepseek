@@ -1,0 +1,73 @@
+[
+  {
+    "type": "function",
+    "function": {
+      "name": "get_weather",
+      "description": "查询指定城市的当前天气（模拟数据）",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "city": {
+            "type": "string",
+            "description": "城市名称，如 北京、Shanghai"
+          }
+        },
+        "required": ["city"]
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "search_docs",
+      "description": "在本地知识库中检索与 AI 教程相关的文档片段",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "query": {
+            "type": "string",
+            "description": "检索关键词或自然语言问题"
+          },
+          "top_k": {
+            "type": "integer",
+            "description": "返回条数，默认 3",
+            "default": 3
+          }
+        },
+        "required": ["query"]
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "run_python",
+      "description": "在安全沙箱中执行简短 Python 表达式并返回 stdout（教学演示用）",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "string",
+            "description": "单行或简短 Python 代码"
+          }
+        },
+        "required": ["code"]
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "save_note",
+      "description": "将重要信息写入 Agent 长期记忆",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "key": { "type": "string", "description": "记忆键名" },
+          "content": { "type": "string", "description": "要记住的内容" }
+        },
+        "required": ["key", "content"]
+      }
+    }
+  }
+]

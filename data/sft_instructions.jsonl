@@ -1,0 +1,55 @@
+{"instruction": "解释（样本1）", "input": "", "output": "梯度下降是一种优化算法，沿损失函数梯度的反方向更新参数以减小误差。"}
+{"instruction": "翻译（样本2）", "input": "将以下句子翻译成英文：人工智能正在改变世界。", "output": "Artificial intelligence is changing the world."}
+{"instruction": "代码（样本3）", "input": "用 Python 写一个计算列表平均值的函数。", "output": "def average(nums):\n    return sum(nums) / len(nums) if nums else 0"}
+{"instruction": "总结（样本4）", "input": "", "output": "机器学习三要素：数据、特征工程、评估指标。"}
+{"instruction": "分类（样本5）", "input": "判断情感：这家餐厅的服务态度非常好。", "output": "正面"}
+{"instruction": "改写（样本6）", "input": "把这句话改得更正式：咱明天见。", "output": "我们将于明日会面。"}
+{"instruction": "问答（样本7）", "input": "", "output": "可用 torch.from_numpy(arr) 和 tensor.numpy()，注意共享内存。"}
+{"instruction": "步骤（样本8）", "input": "如何创建 Python 虚拟环境？", "output": "python -m venv .venv，然后激活：Windows 用 .venv\\\\Scripts\\\\activate"}
+{"instruction": "对比（样本9）", "input": "监督学习和无监督学习的区别？", "output": "监督学习有标签，无监督学习从无标签数据发现结构。"}
+{"instruction": "设计（样本10）", "input": "", "output": "文档切分、嵌入、向量检索、LLM 生成与引用。"}
+{"instruction": "解释（样本11）", "input": "什么是梯度下降？", "output": "梯度下降是一种优化算法，沿损失函数梯度的反方向更新参数以减小误差。"}
+{"instruction": "翻译（样本12）", "input": "将以下句子翻译成英文：人工智能正在改变世界。", "output": "Artificial intelligence is changing the world."}
+{"instruction": "代码（样本13）", "input": "", "output": "def average(nums):\n    return sum(nums) / len(nums) if nums else 0"}
+{"instruction": "总结（样本14）", "input": "总结以下要点：机器学习需要数据、特征和评估。", "output": "机器学习三要素：数据、特征工程、评估指标。"}
+{"instruction": "分类（样本15）", "input": "判断情感：这家餐厅的服务态度非常好。", "output": "正面"}
+{"instruction": "改写（样本16）", "input": "", "output": "我们将于明日会面。"}
+{"instruction": "问答（样本17）", "input": "PyTorch 中 tensor 和 numpy array 如何互转？", "output": "可用 torch.from_numpy(arr) 和 tensor.numpy()，注意共享内存。"}
+{"instruction": "步骤（样本18）", "input": "如何创建 Python 虚拟环境？", "output": "python -m venv .venv，然后激活：Windows 用 .venv\\\\Scripts\\\\activate"}
+{"instruction": "对比（样本19）", "input": "", "output": "监督学习有标签，无监督学习从无标签数据发现结构。"}
+{"instruction": "设计（样本20）", "input": "设计一个最小 RAG 流程需要哪些组件？", "output": "文档切分、嵌入、向量检索、LLM 生成与引用。"}
+{"instruction": "解释（样本21）", "input": "什么是梯度下降？", "output": "梯度下降是一种优化算法，沿损失函数梯度的反方向更新参数以减小误差。"}
+{"instruction": "翻译（样本22）", "input": "", "output": "Artificial intelligence is changing the world."}
+{"instruction": "代码（样本23）", "input": "用 Python 写一个计算列表平均值的函数。", "output": "def average(nums):\n    return sum(nums) / len(nums) if nums else 0"}
+{"instruction": "总结（样本24）", "input": "总结以下要点：机器学习需要数据、特征和评估。", "output": "机器学习三要素：数据、特征工程、评估指标。"}
+{"instruction": "分类（样本25）", "input": "", "output": "正面"}
+{"instruction": "改写（样本26）", "input": "把这句话改得更正式：咱明天见。", "output": "我们将于明日会面。"}
+{"instruction": "问答（样本27）", "input": "PyTorch 中 tensor 和 numpy array 如何互转？", "output": "可用 torch.from_numpy(arr) 和 tensor.numpy()，注意共享内存。"}
+{"instruction": "步骤（样本28）", "input": "", "output": "python -m venv .venv，然后激活：Windows 用 .venv\\\\Scripts\\\\activate"}
+{"instruction": "对比（样本29）", "input": "监督学习和无监督学习的区别？", "output": "监督学习有标签，无监督学习从无标签数据发现结构。"}
+{"instruction": "设计（样本30）", "input": "设计一个最小 RAG 流程需要哪些组件？", "output": "文档切分、嵌入、向量检索、LLM 生成与引用。"}
+{"instruction": "解释（样本31）", "input": "", "output": "梯度下降是一种优化算法，沿损失函数梯度的反方向更新参数以减小误差。"}
+{"instruction": "翻译（样本32）", "input": "将以下句子翻译成英文：人工智能正在改变世界。", "output": "Artificial intelligence is changing the world."}
+{"instruction": "代码（样本33）", "input": "用 Python 写一个计算列表平均值的函数。", "output": "def average(nums):\n    return sum(nums) / len(nums) if nums else 0"}
+{"instruction": "总结（样本34）", "input": "", "output": "机器学习三要素：数据、特征工程、评估指标。"}
+{"instruction": "分类（样本35）", "input": "判断情感：这家餐厅的服务态度非常好。", "output": "正面"}
+{"instruction": "改写（样本36）", "input": "把这句话改得更正式：咱明天见。", "output": "我们将于明日会面。"}
+{"instruction": "问答（样本37）", "input": "", "output": "可用 torch.from_numpy(arr) 和 tensor.numpy()，注意共享内存。"}
+{"instruction": "步骤（样本38）", "input": "如何创建 Python 虚拟环境？", "output": "python -m venv .venv，然后激活：Windows 用 .venv\\\\Scripts\\\\activate"}
+{"instruction": "对比（样本39）", "input": "监督学习和无监督学习的区别？", "output": "监督学习有标签，无监督学习从无标签数据发现结构。"}
+{"instruction": "设计（样本40）", "input": "", "output": "文档切分、嵌入、向量检索、LLM 生成与引用。"}
+{"instruction": "解释（样本41）", "input": "什么是梯度下降？", "output": "梯度下降是一种优化算法，沿损失函数梯度的反方向更新参数以减小误差。"}
+{"instruction": "翻译（样本42）", "input": "将以下句子翻译成英文：人工智能正在改变世界。", "output": "Artificial intelligence is changing the world."}
+{"instruction": "代码（样本43）", "input": "", "output": "def average(nums):\n    return sum(nums) / len(nums) if nums else 0"}
+{"instruction": "总结（样本44）", "input": "总结以下要点：机器学习需要数据、特征和评估。", "output": "机器学习三要素：数据、特征工程、评估指标。"}
+{"instruction": "分类（样本45）", "input": "判断情感：这家餐厅的服务态度非常好。", "output": "正面"}
+{"instruction": "改写（样本46）", "input": "", "output": "我们将于明日会面。"}
+{"instruction": "问答（样本47）", "input": "PyTorch 中 tensor 和 numpy array 如何互转？", "output": "可用 torch.from_numpy(arr) 和 tensor.numpy()，注意共享内存。"}
+{"instruction": "步骤（样本48）", "input": "如何创建 Python 虚拟环境？", "output": "python -m venv .venv，然后激活：Windows 用 .venv\\\\Scripts\\\\activate"}
+{"instruction": "对比（样本49）", "input": "", "output": "监督学习有标签，无监督学习从无标签数据发现结构。"}
+{"instruction": "设计（样本50）", "input": "设计一个最小 RAG 流程需要哪些组件？", "output": "文档切分、嵌入、向量检索、LLM 生成与引用。"}
+{"instruction": "解释（样本51）", "input": "什么是梯度下降？", "output": "梯度下降是一种优化算法，沿损失函数梯度的反方向更新参数以减小误差。"}
+{"instruction": "翻译（样本52）", "input": "", "output": "Artificial intelligence is changing the world."}
+{"instruction": "代码（样本53）", "input": "用 Python 写一个计算列表平均值的函数。", "output": "def average(nums):\n    return sum(nums) / len(nums) if nums else 0"}
+{"instruction": "总结（样本54）", "input": "总结以下要点：机器学习需要数据、特征和评估。", "output": "机器学习三要素：数据、特征工程、评估指标。"}
+{"instruction": "分类（样本55）", "input": "", "output": "正面"}

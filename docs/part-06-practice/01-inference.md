@@ -1,7 +1,8 @@
 # 推理调用与应用开发入门
 
 > **前置**：[guide-00 部署](/part-06-practice/00-deployment) 已跑通 smoke test。  
-> **目标**：会用 API 写小应用、理解参数、处理 R1 推理输出、为微调/RAG 打基础。
+> **目标**：会用 API 写小应用、理解参数、处理 R1 推理输出、为微调/RAG 打基础。  
+> **进阶**：[Part 9 Agent 开发](/part-09-agents/01-agent-overview)（在应用之上构建工具调用与 RAG Agent）。
 
 ---
 

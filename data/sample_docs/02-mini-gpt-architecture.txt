@@ -1,0 +1,9 @@
+迷你 GPT 架构要点（原创教程摘录）
+
+1. 嵌入层：token id → 向量
+2. 位置编码：为每个位置添加位置信息
+3. 多层 Transformer Block：多头自注意力 + 前馈网络（FFN）+ 残差 + LayerNorm
+4. 语言模型头：最后一层 hidden state 投影到词表 logits
+5. 训练目标：Next Token Prediction（因果掩码，只看左侧上下文）
+
+在 CPU 上可用极小配置（如 d_model=128, n_layer=2）验证完整流水线。

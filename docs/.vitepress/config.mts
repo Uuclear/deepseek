@@ -5,7 +5,7 @@ const editLinkPattern =
 
 export default defineConfig({
   title: '从零开始学 AI',
-  description: 'Python · 数学 · 机器学习 · 深度学习 · NLP · DeepSeek 实战',
+  description: 'Python · 数学 · ML · DL · NLP · 构建 LLM · Agent · DeepSeek 实战',
   base: '/deepseek/',
   lang: 'zh-CN',
   cleanUrls: true,
@@ -30,6 +30,8 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '学习路线', link: '/roadmap' },
       { text: 'Part 0 环境', link: '/part-00-env/01-python-install' },
+      { text: '构建 LLM', link: '/part-08-llm-build/01-tokenizer-bpe' },
+      { text: 'Agent 开发', link: '/part-09-agents/01-agent-overview' },
       { text: 'DeepSeek 实战', link: '/part-06-practice/00-deployment' },
       { text: '原理深读', link: '/part-07-theory/training-guide' },
     ],
@@ -93,6 +95,26 @@ export default defineConfig({
         ['r1-pipeline', 'R1 四阶段流水线'],
         ['distill-reproduction', '蒸馏与复现'],
       ]),
+      '/part-08-llm-build/': partSidebar('Part 8 从零构建大模型', [
+        ['01-tokenizer-bpe', 'BPE 分词器训练'],
+        ['02-mini-gpt-arch', '迷你 GPT 架构'],
+        ['03-pretrain-ntp', '预训练 NTP'],
+        ['04-dataset-jsonl', '数据集 JSONL'],
+        ['05-sft-alpaca', 'SFT 指令微调'],
+        ['06-lora-qlora', 'LoRA / QLoRA'],
+        ['07-eval-perplexity', '评估与困惑度'],
+        ['08-scale-to-opensource', '衔接开源生态'],
+      ]),
+      '/part-09-agents/': partSidebar('Part 9 AI Agent 开发', [
+        ['01-agent-overview', 'Agent 概述'],
+        ['02-react-tools', 'ReAct 与工具'],
+        ['03-function-calling', 'Function Calling'],
+        ['04-single-agent', '构建单 Agent'],
+        ['05-rag-agent', 'RAG Agent'],
+        ['06-multi-agent', '多 Agent 协作'],
+        ['07-agent-memory', 'Agent 记忆'],
+        ['08-mcp-cursor', 'MCP 与 Cursor'],
+      ]),
     },
 
     socialLinks: [
@@ -148,6 +170,8 @@ function getPartPrefix(partTitle: string): string {
     'Part 5 NLP 与 Transformer': 'part-05-nlp',
     'Part 6 DeepSeek 实战': 'part-06-practice',
     'Part 7 原理深读': 'part-07-theory',
+    'Part 8 从零构建大模型': 'part-08-llm-build',
+    'Part 9 AI Agent 开发': 'part-09-agents',
   }
   return map[partTitle] ?? ''
 }

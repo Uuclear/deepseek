@@ -4,7 +4,7 @@
 
 ---
 
-## 能力阶梯 L0～L6
+## 能力阶梯 L0～L8
 
 ```text
 L0  Python 环境 + NumPy 能跑通
@@ -14,9 +14,11 @@ L3  理解 Transformer + 分词/Embedding
 L4  DeepSeek API / 本地部署（Part 6 guide-00）
 L5  应用开发 + RAG + LoRA 微调（Part 6 guide-01～03）
 L6  原理深读 + GRPO / R1 流水线（Part 7）
+L7  能构建迷你 LLM（Part 8：BPE → GPT → 预训练 → SFT）
+L8  能开发 Agent（Part 9：工具调用 → RAG Agent → MCP）
 ```
 
-**8 周入门目标**：达到 **L5**；L6 按兴趣延伸。
+**8 周入门目标**：达到 **L5**；L6～L8 按兴趣延伸（造模型 / 做 Agent）。
 
 ---
 
@@ -58,16 +60,36 @@ L6  原理深读 + GRPO / R1 流水线（Part 7）
 | 做 RL 实验前 | [GRPO](/part-07-theory/grpo-rl)、[R1 流水线](/part-07-theory/r1-pipeline) |
 | 复现 Distill 时 | [蒸馏与复现](/part-07-theory/distill-reproduction) |
 
+### 阶段五：构建 LLM（第 9～10 周，选修）
+
+| 周 | Part 8 | 产出 |
+|----|--------|------|
+| 9 | [01～04](/part-08-llm-build/01-tokenizer-bpe) | BPE 分词器 + 迷你 GPT 预训练 |
+| 10 | [05～08](/part-08-llm-build/05-sft-alpaca) | SFT 演示 + 评估 + 衔接 HF/DeepSeek |
+
+### 阶段六：Agent 开发（第 11～12 周，选修）
+
+| 周 | Part 9 | 产出 |
+|----|--------|------|
+| 11 | [01～04](/part-09-agents/01-agent-overview) | ReAct + Function Calling Agent |
+| 12 | [05～08](/part-09-agents/05-rag-agent) | RAG / 多 Agent / MCP 入门 |
+
 ---
 
 ## 两条路径速查
 
 ```text
 系统学习（推荐）：
-  Part 0 → 1 → 2 → 3 → 4 → 5 → Part 6 → Part 7
+  Part 0 → 1 → 2 → 3 → 4 → 5 → Part 6 → Part 7 → Part 8 → Part 9
 
 已有 Python/ML 基础：
-  Part 4（复习）→ Part 5 → Part 6
+  Part 4（复习）→ Part 5 → Part 6 → Part 8 或 Part 9
+
+想「造模型」：
+  Part 5 → Part 8（可与 Part 6 微调章节交叉）
+
+想「做 Agent」：
+  Part 6 guide-01 → Part 9
 
 只想快速用 DeepSeek：
   Part 0 §1 → Part 6 guide-00 → guide-01
@@ -84,11 +106,13 @@ L6  原理深读 + GRPO / R1 流水线（Part 7）
 - [ ] Part 5：能解释 Self-Attention 在算什么
 - [ ] Part 6：`smoke_test.py` 返回 OK
 - [ ] Part 6：完成一个最小 RAG 或 LoRA 实验
+- [ ] Part 8（L7）：`train_tokenizer.py` + `mini_gpt/train.py` 跑通
+- [ ] Part 9（L8）：Function Calling 或 RAG Agent 示例跑通
 
 ---
 
 ## 示例代码与数据
 
 - 可下载示例：仓库 `examples/`（构建时复制到 `docs/public/examples/`）
-- 数据集：`data/`（iris.csv、titanic 子集等）
+- 数据集：`data/`（corpus、sft JSONL、sample_docs、agent_tools 等，见 [`data/README.md`](/data/README.md)）
 - Python 依赖：[`examples/requirements.txt`](/examples/requirements.txt)

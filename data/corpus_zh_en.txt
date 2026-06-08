@@ -1,0 +1,799 @@
+【教程片段 1】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 1: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 2】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 2: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 3】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 3: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 4】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 4: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 5】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 5: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 6】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 6: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 7】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 7: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 8】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 8: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 9】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 9: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 10】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 10: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 11】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 11: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 12】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 12: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 13】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 13: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 14】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 14: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 15】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 15: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 16】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 16: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 17】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 17: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 18】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 18: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 19】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 19: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 20】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 20: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 21】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 21: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 22】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 22: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 23】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 23: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 24】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 24: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 25】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 25: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 26】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 26: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 27】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 27: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 28】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 28: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 29】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 29: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 30】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 30: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 31】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 31: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 32】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 32: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 33】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 33: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 34】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 34: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 35】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 35: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 36】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 36: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 37】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 37: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 38】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 38: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 39】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 39: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 40】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 40: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 41】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 41: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 42】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 42: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 43】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 43: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 44】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 44: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 45】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 45: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 46】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 46: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 47】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 47: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 48】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 48: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 49】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 49: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 50】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 50: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 51】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 51: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 52】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 52: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 53】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 53: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 54】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 54: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 55】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 55: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 56】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 56: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 57】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 57: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 58】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 58: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 59】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 59: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 60】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 60: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 61】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 61: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 62】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 62: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 63】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 63: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 64】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 64: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 65】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 65: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 66】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 66: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 67】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 67: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 68】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 68: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 69】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 69: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 70】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 70: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 71】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 71: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 72】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 72: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 73】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 73: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 74】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 74: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 75】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 75: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 76】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 76: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 77】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 77: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 78】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 78: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 79】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 79: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 80】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 80: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 81】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 81: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 82】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 82: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 83】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 83: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 84】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 84: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 85】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 85: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 86】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 86: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 87】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 87: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 88】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 88: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 89】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 89: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 90】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 90: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 91】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 91: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 92】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 92: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 93】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 93: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 94】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 94: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 95】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 95: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 96】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 96: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 97】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 97: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 98】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 98: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 99】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 99: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 100】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 100: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 101】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 101: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 102】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 102: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 103】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 103: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 104】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 104: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 105】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 105: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 106】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 106: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 107】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 107: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 108】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 108: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 109】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 109: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 110】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 110: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 111】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 111: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 112】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 112: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 113】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 113: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 114】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 114: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 115】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 115: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 116】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 116: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 117】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 117: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 118】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 118: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 119】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 119: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 120】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 120: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 121】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 121: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 122】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 122: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 123】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 123: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 124】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 124: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 125】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 125: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 126】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 126: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 127】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 127: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 128】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 128: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 129】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 129: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 130】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 130: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 131】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 131: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 132】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 132: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 133】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 133: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 134】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 134: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 135】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 135: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 136】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 136: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 137】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 137: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 138】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 138: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 139】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 139: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 140】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 140: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 141】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 141: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 142】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 142: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 143】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 143: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 144】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 144: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 145】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 145: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 146】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 146: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 147】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 147: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 148】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 148: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 149】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 149: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 150】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 150: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 151】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 151: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 152】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 152: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 153】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 153: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 154】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 154: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 155】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 155: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 156】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 156: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 157】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 157: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 158】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 158: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 159】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 159: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 160】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 160: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 161】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 161: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 162】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 162: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 163】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 163: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 164】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 164: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 165】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 165: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 166】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 166: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 167】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 167: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 168】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 168: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 169】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 169: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 170】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 170: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 171】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 171: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 172】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 172: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 173】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 173: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 174】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 174: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 175】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 175: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 176】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 176: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 177】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 177: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 178】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 178: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 179】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 179: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 180】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 180: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 181】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 181: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 182】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 182: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 183】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 183: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 184】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 184: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 185】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 185: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 186】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 186: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 187】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 187: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 188】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 188: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 189】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 189: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 190】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 190: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。
+
+【教程片段 191】机器学习：Machine learning uses data to learn patterns without explicit rules. 本节介绍机器学习的基本概念与动手练习。
+Example 191: In practice, we implement machine learning uses data to learn patterns without explicit rules. step by step.
+练习：请用 Python 写一段与机器学习相关的代码，并记录运行结果。
+
+【教程片段 192】深度学习：Deep learning stacks neural network layers for representation learning. 本节介绍深度学习的基本概念与动手练习。
+Example 192: In practice, we implement deep learning stacks neural network layers for representation learning. step by step.
+练习：请用 Python 写一段与深度学习相关的代码，并记录运行结果。
+
+【教程片段 193】Transformer：The Transformer architecture relies on self-attention for sequence modeling. 本节介绍Transformer的基本概念与动手练习。
+Example 193: In practice, we implement the transformer architecture relies on self-attention for sequence modeling. step by step.
+练习：请用 Python 写一段与Transformer相关的代码，并记录运行结果。
+
+【教程片段 194】分词：Tokenization splits text into units for model input. 本节介绍分词的基本概念与动手练习。
+Example 194: In practice, we implement tokenization splits text into units for model input. step by step.
+练习：请用 Python 写一段与分词相关的代码，并记录运行结果。
+
+【教程片段 195】预训练：Pre-training learns general language knowledge from large corpora. 本节介绍预训练的基本概念与动手练习。
+Example 195: In practice, we implement pre-training learns general language knowledge from large corpora. step by step.
+练习：请用 Python 写一段与预训练相关的代码，并记录运行结果。
+
+【教程片段 196】微调：Fine-tuning adapts a pre-trained model to specific tasks. 本节介绍微调的基本概念与动手练习。
+Example 196: In practice, we implement fine-tuning adapts a pre-trained model to specific tasks. step by step.
+练习：请用 Python 写一段与微调相关的代码，并记录运行结果。
+
+【教程片段 197】LoRA：LoRA adds low-rank matrices to reduce trainable parameters. 本节介绍LoRA的基本概念与动手练习。
+Example 197: In practice, we implement lora adds low-rank matrices to reduce trainable parameters. step by step.
+练习：请用 Python 写一段与LoRA相关的代码，并记录运行结果。
+
+【教程片段 198】Agent：An AI agent perceives, plans, acts, and remembers. 本节介绍Agent的基本概念与动手练习。
+Example 198: In practice, we implement an ai agent perceives, plans, acts, and remembers. step by step.
+练习：请用 Python 写一段与Agent相关的代码，并记录运行结果。
+
+【教程片段 199】RAG：Retrieval-augmented generation combines search with generation. 本节介绍RAG的基本概念与动手练习。
+Example 199: In practice, we implement retrieval-augmented generation combines search with generation. step by step.
+练习：请用 Python 写一段与RAG相关的代码，并记录运行结果。
+
+【教程片段 200】注意力机制：Attention lets models focus on relevant parts of input. 本节介绍注意力机制的基本概念与动手练习。
+Example 200: In practice, we implement attention lets models focus on relevant parts of input. step by step.
+练习：请用 Python 写一段与注意力机制相关的代码，并记录运行结果。

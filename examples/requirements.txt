@@ -15,4 +15,10 @@ torchvision>=0.15
 # Part 6 DeepSeek 实战
 openai>=1.0
 python-dotenv>=1.0
-# chromadb sentence-transformers  # RAG 项目时安装
+
+# Part 8 构建 LLM
+tokenizers>=0.15
+
+# Part 9 Agent（可选增强）
+# chromadb>=0.4
+# sentence-transformers>=2.2

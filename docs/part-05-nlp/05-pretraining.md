@@ -10,7 +10,8 @@
 
 **推理**：Chat API 就是部署后的预训练+对齐模型。
 
-👉 读完本章，进入 [Part 6 DeepSeek 部署](/part-06-practice/00-deployment)。
+👉 想**亲手训练**迷你 LLM？继续 [Part 8 从零构建大模型](/part-08-llm-build/01-tokenizer-bpe)。  
+👉 想先**用 API 实战**？进入 [Part 6 DeepSeek 部署](/part-06-practice/00-deployment)。
 
 ## 动手练习
 
