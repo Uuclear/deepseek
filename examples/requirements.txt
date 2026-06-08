@@ -1,0 +1,18 @@
+# Part 0-2 基础
+numpy>=1.24
+pandas>=2.0
+
+# Part 3 机器学习
+scikit-learn>=1.3
+
+# Part 4 深度学习（CPU 可跑）
+torch>=2.0
+torchvision>=0.15
+
+# Part 5 NLP
+# transformers>=4.36  # 可选，注意力可视化示例
+
+# Part 6 DeepSeek 实战
+openai>=1.0
+python-dotenv>=1.0
+# chromadb sentence-transformers  # RAG 项目时安装

@@ -1,0 +1,15 @@
+{
+  "name": "deepseek-ai-learning",
+  "version": "1.0.0",
+  "private": true,
+  "description": "从零开始学 AI — VitePress 学习网站",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "node scripts/copy-examples.js && vitepress build docs",
+    "preview": "vitepress preview docs",
+    "copy-examples": "node scripts/copy-examples.js"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}

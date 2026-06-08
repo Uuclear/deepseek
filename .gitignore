@@ -1,0 +1,11 @@
+node_modules/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+docs/public/examples/
+docs/public/data/
+.venv/
+__pycache__/
+*.pyc
+.env
+examples/part-04-dl/05-training-loop/data_mnist/
+examples/part-04-dl/07-save-load/tiny.pt
