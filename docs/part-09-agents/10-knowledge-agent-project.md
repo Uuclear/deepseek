@@ -8,6 +8,22 @@
 
 本章把 Part 9 串成 **端到端项目**：加载原创文档 → 检索 →（可选）LLM 生成 → 带来源回答。
 
+## 本章图示
+
+```mermaid
+flowchart TD
+  Docs["sample_docs/*.md"] --> Chunk["切分 chunk"]
+  Chunk --> Index["关键词索引"]
+  Query["用户问题"] --> Search["KnowledgeAgent.search()"]
+  Index --> Search
+  Search --> TopK["top-k 片段"]
+  TopK --> Mode{"模式?"}
+  Mode -->|mock| Mock["拼接片段返回"]
+  Mode -->|API| LLM["DeepSeek 生成答案"]
+  Mock --> Answer["带来源的回复"]
+  LLM --> Answer
+```
+
 ## 架构
 
 ```text

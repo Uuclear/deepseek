@@ -8,6 +8,21 @@ PyTorch 自动构建计算图。`y.backward()` 后 `x.grad` 即 ∂y/∂x。
 
 这是神经网络训练的引擎。
 
+## 本章图示
+
+```mermaid
+flowchart BT
+  x["x (叶子节点, requires_grad)"] --> mul["× 3"]
+  mul --> pow["^ 2"]
+  pow --> y["y = x³"]
+  y --> backward["y.backward()"]
+  backward --> grad["x.grad = ∂y/∂x = 3x²"]
+```
+
+PyTorch 在前向传播时隐式构建 **计算图**；`backward()` 沿图反向应用链式法则：
+
+$$\frac{\partial y}{\partial x} = \frac{\partial y}{\partial u} \cdot \frac{\partial u}{\partial x}$$
+
 ## 动手练习
 
 对 y=x³ 在 x=1 求导

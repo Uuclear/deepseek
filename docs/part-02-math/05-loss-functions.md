@@ -10,6 +10,32 @@
 
 训练目标：最小化损失；优化器用梯度更新参数。
 
+## 本章图示
+
+```mermaid
+flowchart LR
+  Pred["预测 ŷ"] --> Loss["损失函数 L"]
+  True["真值 y"] --> Loss
+  Loss --> Grad["∂L/∂θ"]
+  Grad --> Update["参数更新 θ ← θ - η∇L"]
+```
+
+### 核心公式
+
+**均方误差 MSE**（回归）：
+
+$$\text{MSE} = \frac{1}{n}\sum_{i=1}^{n}(y_i - \hat{y}_i)^2$$
+
+**交叉熵**（二分类）：
+
+$$L = -\big[y \log(\hat{y}) + (1-y)\log(1-\hat{y})\big]$$
+
+**多分类交叉熵**：
+
+$$L = -\sum_{i} y_i \log(\hat{y}_i)$$
+
+其中 $\hat{y}_i$ 为 softmax 输出的类别概率。
+
 ## 动手练习
 
 比较同一组 y 下 BCE 与 MSE 数值

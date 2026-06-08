@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 340" role="img" aria-label="è›:6 Q K V ¡—A">
+  <rect width="520" height="340" fill="#f8fafc" rx="12"/>
+  <text x="260" y="28" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="16" font-weight="700" fill="#1e293b">Scaled Dot-Product Attention</text>
+  <!-- Q K V boxes -->
+  <rect x="30" y="60" width="80" height="56" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+  <text x="70" y="86" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="14" font-weight="700" fill="#1d4ed8">Q</text>
+  <text x="70" y="104" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="10" fill="#475569">Query åâ</text>
+  <rect x="130" y="60" width="80" height="56" rx="8" fill="#ede9fe" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="170" y="86" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="14" font-weight="700" fill="#7c3aed">K</text>
+  <text x="170" y="104" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="10" fill="#475569">Key .</text>
+  <rect x="230" y="60" width="80" height="56" rx="8" fill="#cffafe" stroke="#0ea5e9" stroke-width="2"/>
+  <text x="270" y="86" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="14" font-weight="700" fill="#0284c7">V</text>
+  <text x="270" y="104" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="10" fill="#475569">Value <</text>
+  <!-- Step 1 -->
+  <text x="360" y="78" font-family="Segoe UI, PingFang SC, sans-serif" font-size="11" fill="#64748b">` Q  K ¹ï</text>
+  <text x="360" y="96" font-family="Segoe UI, PingFang SC, sans-serif" font-size="11" fill="#64748b">a då d_k )></text>
+  <text x="360" y="114" font-family="Segoe UI, PingFang SC, sans-serif" font-size="11" fill="#64748b">b softmax —CÍ ±</text>
+  <!-- Matrix multiply visual -->
+  <rect x="30" y="150" width="140" height="70" rx="6" fill="#e0e7ff" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="100" y="178" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="12" font-weight="600" fill="#1e293b">Scores = QK^T / d</text>
+  <text x="100" y="198" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="10" fill="#64748b">ø<¦é5</text>
+  <text x="185" y="190" font-family="Segoe UI, PingFang SC, sans-serif" font-size="20" fill="#6366f1">’</text>
+  <rect x="210" y="150" width="120" height="70" rx="6" fill="#ede9fe" stroke="#8b5cf6" stroke-width="1.5"/>
+  <text x="270" y="178" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="12" font-weight="600" fill="#1e293b">± = softmax</text>
+  <text x="270" y="198" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="10" fill="#64748b">è›CÍ</text>
+  <text x="345" y="190" font-family="Segoe UI, PingFang SC, sans-serif" font-size="20" fill="#6366f1">×</text>
+  <rect x="370" y="150" width="80" height="70" rx="6" fill="#cffafe" stroke="#0ea5e9" stroke-width="1.5"/>
+  <text x="410" y="185" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="14" font-weight="700" fill="#0284c7">V</text>
+  <text x="470" y="190" font-family="Segoe UI, PingFang SC, sans-serif" font-size="20" fill="#6366f1">=</text>
+  <rect x="30" y="250" width="460" height="56" rx="8" fill="#c7d2fe" stroke="#6366f1" stroke-width="2"/>
+  <text x="260" y="274" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="13" font-weight="600" fill="#1e293b">Output = softmax(QK^T / d_k) · V</text>
+  <text x="260" y="294" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="10" fill="#475569">Ï* Query Mnùhè Value  CBŒ</text>
+  <!-- Arrows from QK to scores -->
+  <path d="M70 116 L70 140 L100 140 L100 150" stroke="#3b82f6" stroke-width="1.5" fill="none"/>
+  <path d="M170 116 L170 140 L130 140" stroke="#8b5cf6" stroke-width="1.5" fill="none"/>
+  <path d="M270 116 L270 220 L410 220" stroke="#0ea5e9" stroke-width="1.5" fill="none" stroke-dasharray="4 3"/>
+</svg>

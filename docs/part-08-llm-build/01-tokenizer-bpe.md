@@ -12,9 +12,21 @@
 
 ## BPE 直觉
 
+![BPE 字节对编码合并过程示意](/images/tokenizer-bpe.svg)
+
 1. 初始化：字符级词表 + 特殊符号 `[UNK]`
 2. 统计相邻符号对频率，合并最高频的一对
 3. 重复直到达到目标 `vocab_size`
+
+```mermaid
+flowchart TD
+  Init["字符级词表"] --> Count["统计相邻符号对频率"]
+  Count --> Merge["合并最高频对"]
+  Merge --> Update["更新语料与词表"]
+  Update --> Check{"达到 vocab_size?"}
+  Check -->|否| Count
+  Check -->|是| Done["保存 tokenizer.json"]
+```
 
 WordPiece 与 BPE 类似，合并准则略有不同；Hugging Face `tokenizers` 库同时支持。
 

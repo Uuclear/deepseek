@@ -8,6 +8,20 @@
 
 DataLoader 批处理；`model.train()` / `model.eval()`。
 
+## 本章图示
+
+![深度学习训练循环：清零梯度、前向、反向、优化四步](/images/training-loop.svg)
+
+```mermaid
+flowchart TD
+  Start(["每个 batch"]) --> ZG["optimizer.zero_grad()"]
+  ZG --> FWD["output = model(x)"]
+  FWD --> LOSS["loss = criterion(output, y)"]
+  LOSS --> BWD["loss.backward()"]
+  BWD --> STEP["optimizer.step()"]
+  STEP --> Start
+```
+
 ## 动手练习
 
 把 epoch 改成 5 观察 test acc

@@ -8,6 +8,21 @@
 
 让模型 **交错生成推理轨迹与工具调用**，用 Observation 把外部世界反馈写回上下文，减少纯幻觉。
 
+## 本章图示
+
+```mermaid
+sequenceDiagram
+  participant U as 用户
+  participant A as Agent (LLM)
+  participant T as 工具
+  U->>A: 问题
+  A->>A: Thought: 需要查天气
+  A->>T: Action: get_weather("北京")
+  T-->>A: Observation: 晴 25°C
+  A->>A: Thought: 可以回答
+  A->>U: Final Answer
+```
+
 典型格式：
 
 ```text

@@ -4,6 +4,19 @@
 > **预计时间**：90 分钟  
 > **本章产出**：一个可扩展的单 Agent 循环骨架
 
+## 本章图示
+
+```mermaid
+flowchart TD
+  User["用户输入"] --> Agent["Agent.step()"]
+  Agent --> LLM["LLM + tools schema"]
+  LLM --> Check{"有 tool_calls?"}
+  Check -->|是| Exec["本地执行工具"]
+  Exec --> Append["追加 tool result 到 messages"]
+  Append --> LLM
+  Check -->|否| Reply["返回 assistant 文本"]
+```
+
 ## 最小 Agent 类结构
 
 ```text

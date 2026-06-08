@@ -12,6 +12,19 @@ BPE 训练 → GPT 架构 → NTP 预训练 → JSONL 数据 → SFT → 评估
 
 开源 7B～671B 模型是 **同一流水线**，差异在规模、算力与对齐技术。
 
+## 本章图示
+
+![大模型训练与部署流水线：预训练 → SFT → RL → 量化 → 部署](/images/llm-pipeline.svg)
+
+```mermaid
+flowchart LR
+  BPE["BPE 分词"] --> PT["预训练 NTP"]
+  PT --> SFT["SFT 指令微调"]
+  SFT --> RL["RL / GRPO 对齐"]
+  RL --> Q["量化导出"]
+  Q --> Deploy["vLLM / API 部署"]
+```
+
 ## 推荐衔接
 
 | 步骤 | 迷你教程 | 开源生态 |

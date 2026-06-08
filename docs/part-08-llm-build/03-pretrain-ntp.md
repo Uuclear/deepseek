@@ -14,6 +14,20 @@
 
 实现上即：输入 `x[:-1]`，预测 `x[1:]`，交叉熵损失。
 
+## 本章图示
+
+```mermaid
+flowchart LR
+  Seq["序列: 我 / 喜欢 / 机器 / 学习"] --> In["输入 x₁…x_{T-1}"]
+  In --> GPT["MiniGPT"]
+  GPT --> Logits["logits"]
+  Logits --> Pred["预测 x₂…x_T"]
+  Target["目标 x₂…x_T"] --> CE["CrossEntropy Loss"]
+  Pred --> CE
+```
+
+**Next Token Prediction**：每个位置 $t$ 预测 $P(x_t \mid x_1, \ldots, x_{t-1})$，最大化 $\sum_t \log P(x_t \mid x_{<t})$。
+
 ## 字符级 vs 子词级
 
 本章示例为降低依赖，使用 **字符级** 词表（语料中每个 Unicode 字符一个 id）。工业模型用 BPE 词表 + 更大语料 + 多卡训练——流程相同，规模不同。

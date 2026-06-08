@@ -12,6 +12,10 @@
 
 单次 `chat.completions` 是「问答」；Agent 是「多步任务求解」。
 
+## 本章图示
+
+![ReAct Agent 感知-规划-行动-观察循环](/images/agent-react-loop.svg)
+
 ## 四模块
 
 | 模块 | 职责 | 例子 |

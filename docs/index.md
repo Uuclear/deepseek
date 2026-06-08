@@ -42,6 +42,8 @@ features:
 
 <HomeRoadmap />
 
+![从零开始学 AI 完整学习路径 Part 0→10](/images/ai-learning-path.svg)
+
 ## 课程结构
 
 | 部分 | 主题 | 篇数 |

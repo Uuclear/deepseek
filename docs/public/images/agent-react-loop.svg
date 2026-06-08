@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 380" role="img" aria-label="ReAct Agent åÄL¨ª¯">
+  <defs>
+    <marker id="ra-arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#6366f1"/>
+    </marker>
+  </defs>
+  <rect width="420" height="380" fill="#f8fafc" rx="12"/>
+  <text x="210" y="30" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="16" font-weight="700" fill="#1e293b">ReAct Agent ª¯</text>
+  <text x="210" y="50" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="11" fill="#64748b">å ’ Ä ’ L¨ ’ Âß ’ °Æ</text>
+  <!-- Center LLM -->
+  <circle cx="210" cy="195" r="52" fill="#ede9fe" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="210" y="190" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="13" font-weight="700" fill="#1e293b">LLM</text>
+  <text x="210" y="208" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="10" fill="#64748b">Thought</text>
+  <!-- Perceive -->
+  <rect x="155" y="68" width="110" height="44" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+  <text x="210" y="88" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="12" font-weight="600" fill="#1e293b">å Perceive</text>
+  <text x="210" y="104" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="9" fill="#64748b">(7“e · åwÔÞ</text>
+  <!-- Plan -->
+  <rect x="300" y="168" width="100" height="44" rx="8" fill="#cffafe" stroke="#0ea5e9" stroke-width="2"/>
+  <text x="350" y="188" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="12" font-weight="600" fill="#1e293b">Ä Plan</text>
+  <text x="350" y="204" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="9" fill="#64748b">ãû¡</text>
+  <!-- Act -->
+  <rect x="260" y="280" width="100" height="44" rx="8" fill="#c7d2fe" stroke="#6366f1" stroke-width="2"/>
+  <text x="310" y="300" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="12" font-weight="600" fill="#1e293b">L¨ Act</text>
+  <text x="310" y="316" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="9" fill="#64748b">(åw</text>
+  <!-- Observe -->
+  <rect x="60" y="280" width="100" height="44" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+  <text x="110" y="300" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="12" font-weight="600" fill="#1e293b">Âß Observe</text>
+  <text x="110" y="316" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="9" fill="#64748b">Observation</text>
+  <!-- Memory -->
+  <rect x="20" y="168" width="100" height="44" rx="8" fill="#e0e7ff" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="70" y="188" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="12" font-weight="600" fill="#1e293b">°Æ Memory</text>
+  <text x="70" y="204" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="9" fill="#64748b">ùÝ · åÆ“</text>
+  <!-- Cycle arrows -->
+  <path d="M210 112 L210 143" stroke="#6366f1" stroke-width="2" marker-end="url(#ra-arrow)"/>
+  <path d="M258 175 L300 190" stroke="#6366f1" stroke-width="2" marker-end="url(#ra-arrow)"/>
+  <path d="M350 212 L330 280" stroke="#6366f1" stroke-width="2" marker-end="url(#ra-arrow)"/>
+  <path d="M260 302 L160 302" stroke="#6366f1" stroke-width="2" marker-end="url(#ra-arrow)"/>
+  <path d="M110 280 L158 230" stroke="#6366f1" stroke-width="2" marker-end="url(#ra-arrow)"/>
+  <path d="M120 190 L158 175" stroke="#6366f1" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#ra-arrow)"/>
+  <text x="210" y="360" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="10" fill="#475569">Thought ’ Action ’ Observation ¤™e
+‡</text>
+  <text x="210" y="372" text-anchor="middle" font-family="Segoe UI, PingFang SC, sans-serif" font-size="10" fill="#64748b">ô0 Final Answer ¾0 max_steps</text>
+</svg>

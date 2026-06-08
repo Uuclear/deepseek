@@ -8,6 +8,21 @@
 
 `nn.MultiheadAttention` 已实现多头注意力。
 
+## 本章图示
+
+![Transformer Encoder Block 简化结构](/images/transformer-block.svg)
+
+```mermaid
+flowchart TD
+  X["输入 x"] --> SA["Multi-Head Self-Attention"]
+  SA --> AN1["Add & LayerNorm"]
+  X --> AN1
+  AN1 --> FFN["Feed-Forward Network"]
+  FFN --> AN2["Add & LayerNorm"]
+  AN1 --> AN2
+  AN2 --> H["输出 h → 堆叠 ×N 层"]
+```
+
 ## 动手练习
 
 运行 demo 打印输出 shape

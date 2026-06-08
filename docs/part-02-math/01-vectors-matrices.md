@@ -12,6 +12,30 @@
 
 神经网络每层本质是 `y = Wx + b`。
 
+## 本章图示
+
+![全连接网络层结构示意：输入层、隐藏层与输出层](/images/neural-network-layers.svg)
+
+```mermaid
+flowchart LR
+  V["向量 u, v"] --> Dot["点积 u·v"]
+  Dot --> Sim["相似度 / 投影长度"]
+  M["矩阵 A, B"] --> MatMul["矩阵乘 C = AB"]
+  MatMul --> Transform["线性变换组合"]
+```
+
+### 核心公式
+
+**点积**（衡量两向量相似度）：
+
+$$\mathbf{u} \cdot \mathbf{v} = \sum_{i=1}^{n} u_i v_i = \|\mathbf{u}\| \|\mathbf{v}\| \cos\theta$$
+
+**矩阵乘法**（$A$ 为 $m \times n$，$B$ 为 $n \times p$）：
+
+$$(AB)_{ij} = \sum_{k=1}^{n} A_{ik} B_{kj}$$
+
+**神经网络一层**：$\mathbf{y} = W\mathbf{x} + \mathbf{b}$
+
 ## 动手练习
 
 用 NumPy 验证 (AB)C = A(BC)

@@ -7,6 +7,10 @@
 
 > 本文把 **基础课程（Part 0～5）**、**DeepSeek 实战（Part 6）**、**原理深读（Part 7）**、**构建 LLM（Part 8）**、**Agent（Part 9）** 与 **进阶专题（Part 10）** 串成一条可执行路径。
 
+## 本章图示
+
+![AI 学习路径 Part 0 到 Part 10 总览](/images/ai-learning-path.svg)
+
 ---
 
 ## 能力阶梯 L0～L9
@@ -22,6 +26,19 @@ L6  原理深读 + GRPO / R1 流水线（Part 7）
 L7  能构建迷你 LLM（Part 8：BPE → GPT → 预训练 → SFT → 量化）
 L8  能开发 Agent（Part 9：工具 → RAG → 知识库项目 → 评测）
 L9  进阶专题（Part 10：MoE、蒸馏、vLLM、多模态）
+```
+
+```mermaid
+flowchart BT
+  L0["L0 环境 + NumPy"] --> L1["L1 ML + sklearn"]
+  L1 --> L2["L2 PyTorch MNIST"]
+  L2 --> L3["L3 Transformer"]
+  L3 --> L4["L4 DeepSeek 部署"]
+  L4 --> L5["L5 应用 + RAG + LoRA"]
+  L5 --> L6["L6 原理 + GRPO"]
+  L6 --> L7["L7 构建迷你 LLM"]
+  L7 --> L8["L8 Agent 开发"]
+  L8 --> L9["L9 进阶专题"]
 ```
 
 **8 周入门目标**：达到 **L5**；L6～L9 按兴趣延伸（造模型 / 做 Agent / 进阶架构）。

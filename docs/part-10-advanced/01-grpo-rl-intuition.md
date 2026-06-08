@@ -8,6 +8,17 @@
 
 SFT 教会模型「像助手一样说话」；**强化学习（RL）** 进一步对齐人类偏好（有用、无害、诚实）。
 
+## 本章图示
+
+```mermaid
+flowchart LR
+  Prompt["Prompt x"] --> Sample["策略 π 采样 y₁…y_k"]
+  Sample --> Reward["奖励模型 / 规则打分"]
+  Reward --> Compare["组内相对比较"]
+  Compare --> Update["更新策略 + KL 约束"]
+  Update --> Policy["对齐后的策略 π'"]
+```
+
 ## 为什么 SFT 不够
 
 - SFT 只模仿示范数据，**不显式优化「哪个回答更好」**

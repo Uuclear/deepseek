@@ -12,6 +12,23 @@ GPT（Generative Pre-trained Transformer）是 **仅解码器** 的 Transformer 
 - N 层 Block：LayerNorm → 因果自注意力 → 残差 → LayerNorm → FFN → 残差
 - 语言模型头：hidden → logits（与嵌入权重可绑定 tying）
 
+## 本章图示
+
+```mermaid
+flowchart TD
+  Tok["Token IDs"] --> Emb["Token + Position Embedding"]
+  Emb --> Block1["Transformer Block ×N"]
+  Block1 --> LN["Final LayerNorm"]
+  LN --> Head["LM Head → logits"]
+  subgraph Block["单个 GPT Block (Pre-LN)"]
+    direction TB
+    N1["LayerNorm"] --> Attn["Causal Self-Attention"]
+    Attn --> Add1["+ 残差"]
+    N2["LayerNorm"] --> FFN["FeedForward (GELU)"]
+    FFN --> Add2["+ 残差"]
+  end
+```
+
 ## 因果掩码
 
 训练时每个位置只能看见左侧 token，保证生成时自回归一致。实现上对 attention score 施加下三角 mask。
